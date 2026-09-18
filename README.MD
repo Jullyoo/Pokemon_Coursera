@@ -204,9 +204,11 @@ O resultado final da análise foi transformado em um dashboard no **Power BI**, 
 
 O objetivo do dashboard é permitir uma visualização mais rápida da evolução dos Pokémon ao longo das gerações, além de possibilitar comparações entre diferentes atributos e classificações.
 
-![Dashboard](images/dashboard.png)
+![D_Home](bi_images/Dashboard_VisaoGeral.PNG)
 
-> *Adicione aqui as imagens finais do dashboard conforme a estrutura do repositório.*
+![D_Estasticas](bi_images/Dashboard_Estatisticas.PNG)
+
+![D_Biologia](bi_images/Dashboard_Biologia.PNG)
 
 ---
 
